@@ -43,7 +43,7 @@
 
 1. `Запушил репозиторий на GitLab, изменив origin:`
 
-![](https://github.com/NightWalkerZ488/git-hwork/blob/main/Originss.PNG)
+![](https://github.com/NightWalkerZ488/git-hwork/blob/main/Originss.JPG)
 ![alt text](https://github.com/NightWalkerZ488/git-hwork/blob/main/neworigin.PNG)
 
 3. `Создал файл .GitLab-ci.yml:`
