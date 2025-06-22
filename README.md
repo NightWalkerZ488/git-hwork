@@ -22,30 +22,19 @@
 
 ---
 
-### Задание 1
+### Задание 1:
 
-`Приведите ответ в свободной форме........`
+1. `ГитЛаб был развёрнут без использования Vagrant локально, из установочного пакета, на моём сервере:`
+![alt text](https://github.com/NightWalkerZ488/git-hwork/blob/main/Gitlab.PNG)
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+2. `ГитЛаб хзапущен локально, далее создан, новый проект и репозиторий:`
+![alt text](https://github.com/NightWalkerZ488/git-hwork/blob/main/localrun.PNG)
+![alt text](https://github.com/NightWalkerZ488/git-hwork/blob/main/proj.PNG)
 
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
-
-
----
+3. `Зарегистрирован gitlab-runner для этого проекта и запущень в режиме Docker:`
+![alt text](https://github.com/NightWalkerZ488/git-hwork/blob/main/runnerreg.PNG)
+![alt text](https://github.com/NightWalkerZ488/git-hwork/blob/main/showrun.PNG)
+![alt text](https://github.com/NightWalkerZ488/git-hwork/blob/main/runnerconf.PNG)
 
 ### Задание 2
 
