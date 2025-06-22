@@ -42,7 +42,7 @@
 ### Задание 2
 
 1. `Запушил репозиторий на GitLab, изменив origin:`
-![alt text](https://github.com/NightWalkerZ488/git-hwork/blob/main/Origins.PNG)
+![alt text](https://github.com/NightWalkerZ488/git-hwork/blob/main/Originss.PNG)
 ![alt text](https://github.com/NightWalkerZ488/git-hwork/blob/main/neworigin.PNG)
 
 2. `Создал файл .GitLab-ci.yml:`
